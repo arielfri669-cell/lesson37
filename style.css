@@ -4,7 +4,8 @@ body{
     align-items: center;
     display: flex;
     flex-direction: column;
-    background-color: rgb(161, 45, 110);
+    /* צבע חדש */
+    background-color: rgb(59, 161, 45);
 }
 
 h1{
